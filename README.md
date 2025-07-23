@@ -1,1 +1,21 @@
-# Auuuu
+n=input("number")
+m=input(" Mesure of time ")
+t= input("mode of transportation")
+a=input(" adjective")
+a2=input("adjective2")
+n2= input("noun")
+c=input("colore")
+p=input(" part of body")
+v=input(" verb")
+g=input("number2")
+d=input(" noun2")
+h=input("noun3")
+y=input("Part of body2")
+w=input("verb")
+x=input("noun4")
+q=input("adjective3")
+s=input("silly word")
+u=input("noun")
+command="1"
+text=f"It was about {n}{m} ago when I arrived at the hospital in a {t}.The hospital is a/an {a} place, there are a lot of {a2} {n2}here.There are nurses here who have {c}{p}.If someone wants to come into my room I told them that they have to {v} first.I’ve decorated my room with {g}{d}. Today I talked to a doctor and they were wearing a {h} on their {y}.I heard that all doctors {w} {x} every day for breakfast. The most {q} thing about being in the hospital is the {s} {u} !"
+print(text)
